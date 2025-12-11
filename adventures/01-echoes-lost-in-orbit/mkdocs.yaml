@@ -6,3 +6,4 @@ nav:
   - '🟡 Intermediate': intermediate.md
   - 'Solutions':
       - '🟢 Beginner': solutions/beginner.md
+      - '🟡 Intermediate': solutions/intermediate.md
